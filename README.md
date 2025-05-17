@@ -88,8 +88,10 @@ You can find detailed project documentation and reports in the `/Report/` direct
 
 ## 👥 Contributors
 
-- [Your Name Here] (Team Lead / Developer)
-- [Other Team Members]
+- BCA (4th Sem Project)
+- Aman Bhandari
+- Nischal Adhikari
+- Kiran Aryal
 
 ## 📜 License
 
